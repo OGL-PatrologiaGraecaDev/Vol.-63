@@ -1,0 +1,65 @@
+1089
+1090
+3 | 5 ι 7 | 9 ι 11 ι 13
+ι 1 ι 8 ι 16 ι 32 ι 64 ι 128
+
+DE ARITHMETICA LIB. Ι.
+meri ab extremitatibus incipienti, et usque ad media A sectio illa non pervenit, sed ante unitatem invenitur
+progredienti, quod continetur sub extremis terminis,
+idem est illi quod continetur sub intra se positis sum-
+mulis, Atque hoc idem usque dum ad duas medieta-
+tes fuerit ventum, in dispositionibus scilicet paribus.
+Si autem fuerint impares dispositiones, quod ab una
+medietate conficitur, hoc idem sub altrinsecus posi-
+tis partibus procreatur. Atque hoc usquedum ad ex-
+tremitates processio ﬁat. 1n ea enim dispositione quas
+est 2, 4, 8, 16, idem reddunt 2 per 16 multiplicati,
+quod 4 per octonarium numerum ducti. Utroque enim
+modo 32 fient. Quod si impar sit ordo, ut est 2, 4,
+8, idem facient extremi quod medietas. Bis enim 8
+sunt 16, quatuor quater sunt 16, qui numerus a qua-
+ternario in se ducto perﬁcitur. In numero vero pari-
+ter impari, si fuerit unus in medio terminus, circum
+se positorum terminorum si in unum redigantur me-
+dietas est. Eiidem eorum quoque qui super hos sunt
+terminos medietas est. Atque hoc usque ad extremos
+omnium terminorum, ut in eo ordine qui est pariter
+imparium numerorum 2, 6. 10 junctus binarius cum
+denario 12 explet, cujus senarius medietas inveni-
+tur. Si vero fuerint dua: medietates junctae, ipsas
+utraeque aequales erunt super se terminis constitutis.
+L't est in hoc ordine, 2, 6, 10, 14, Juncti enim 2 et
+14, in 16 crescunt, quos senarius cum denario copu-
+latus efﬁciet. Atque hoc in numerosioribus terminis
+initio sumpto a mediis evenit, usque dum ad extrema
+veniatur.
+CAPUT Xl.
+De numero impariter pari ejusque proprietatibus, ei
+descriptionis ad impariter paris, in latitudine, in
+longitudine, ad pariter paris natu-ram pertinentis,
+expositio,
+Impariter par numerus est ex utrisque confectus,
+et medietatis loco gemina extremitate concluditur,
+ut qua ab utroque discrepet, feadem ad alterutrum
+cognationejungatur. Hic autem talis est qui dividi~
+tur in aequas partes, cujusque pars in alias aequas di-
+vidi potest, et etiam aliquando partes partium divi-
+duntur, sed non ut usque ad unitatem progrediatur
+aequabilis illa distinctio, ut sunt 24 et 28. Hi enim pos-
+sunt in medietates dividi, et eorum rursus partes in
+alias medietates, sine aliqua dubitatione solvuntur.
+Sunt etiam quidam alii numeri, quorum partes alias D inferiores multiplicent, cunctos qui nati fuerint im-
+recipiunt divisiones, sed ipsa divisio ad unitatem
+usque non pervenit. Igitur in eo quod plus quam unam
+suscipit sectionem, habet similitudinem pariter paris,
+sed a pariter impari segregatur. In eo vero quod us-
+que ad unum sectio illa non ducitur, pariter imparem
+non refutat, sed a pariter pari disjungitur. Contingit
+autem huic numero et utraque habere quae superio-
+res non habent, et utraque quae illi recipiunt obti-
+nere. Et habet quidem quod utrique non habent,
+quod cum in uno solus major terminus divideretur,
+in alio vero solus minor terminus non divideretur,
+in hoc neque solus major terminus divisionem reci-
+pit, neque minor solus terminus a divisione sejungi-
+tur. Nam et partes solvuntur, et usque ad unitatem

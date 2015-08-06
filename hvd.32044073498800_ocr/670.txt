@@ -1,0 +1,64 @@
+ῑμί
+Η G
+Ο
+
+13⁸29 INTERPRETATIO EUC‘
+lS GEOMETRI/E. LIB. Ι. 1330
+Α 1η superioribus vero dictum est ad datum punctum
+datae rectas lineae aequalem rectam lineam collocare
+1η oportere. Sed hujus artis expertibus obscure difﬁcul-
+terque. Sed nos animum lectoris quasi introducendo
+oblectantes hujus subsequentis ﬁgurae explanationem
+positis litterarum linearumque notulis patefacimus.
+Sit quidem datum punctum A, data vero recta linea
+B C, oportet igitur ad punctum Α rectae lineae Β C
+mquam rectam lineam collocare; adjungatur enim ab
+A puncto ad Β punctum recta linea ea qua? est A Β,
+et constituatur super Α Β rectam lineam, triangulum
+mquilaterum quod est D A Β, et ejiciantur in rectum
+D A, D Β, rectae lineae, ad A G et Β Μ, et centro qui-
+dem B, spatio autem Β C, circulus describatur C ΒΕ,
+et rursus centro quidem D,fspatio autem D E, circu-
+lus describatur F K L. Quoniam igitur Β punctum
+centrum est, C F Ε circuli, aequa est C Β ei quae est
+Β Β. Rursus quoniam D punctum centrum est, F L K
+circuli, mque est υ L ei quae est D Β. Quarum aequa
+est Ι) Α ei quae est D Β, aequilaterum enim triangu-
+lum est id quod est D A Β. Reliqua igitur Α L reli-
+quae B F existit aequalis. Sed et Β Β ei quae est Β C
+aequa esse monstrata est. Et Β C ei quae est Α L erit
+aequalis. Ad datum igitur punctum id quod estA datm
+rectae lineae ei quae est Β C, aequa locata est ea quae
+est A L, quod oportebat facere ut subjecta descriptio
+monet.
+genda quicunque in nostrorum arithmeticorum theo-
+rematibus instructus accesserit, expeditiori intelli-
+gentia ducitur.
+Supradictum igitur est, supra datam rectam lineam
+terminatam triangulum aequilaterum constituere
+oportere, sed nimis involute, qua} de re hujus exem-
+pli notam subjecimus. Sit data recta linea terminata
+A Β, oportet igitur super eam quae est Α Β triangu-
+lum aaquilaterum constituere, et centro quidem A,
+spatio vero A Β, circulus scribatur B C Ε D. Et rur-
+sus centro Β, spatio autem Α Β, circulus scribatur
+A C F D, et ab eo puncto quod est G, quo se circuli
+dividunt, ad ea puncta quae sunt Α Β, adjungantur.
+Rectus lineae (Ζ Α, C B. Quoniam igitur Α punctum
+centrum est, Β C E D circuli, aequa est A Β ei quae
+est Α C. Rursus, quoniam Β punctum est centrum,
+Α C F Ι) circuli aqua est Β Α ei quae est Β C. Sed et
+A Β ei quae estC A aqua esse monstrata est et A C. ι)
+Igitur ei qua: est Β C erit aequalis. Tres igitur quae
+sunt C Α, Α Β, Β C, quae sibiinvicem sunt, aequilate-
+rum igitur est C Α Β triangulum. Et constitutum est
+supra datam rectam lineam terminatam eam quae est
+A Β quod oportebat facere.
+Tertio igitur loco superius ab Euclide prolatum est
+duabus rectis lineis in aequalibus propositis a majore
+minori aequam rectam lineam abscindere convenire,
+sed nimis strictim, et ob id confuse involuteque. Nos
+Vcro ut animus lectoris ad enodatioris intelligentia!
+accessum, quasi quibusdam gradibus ducatur, hujus
+descriptionem formula subjecimus. Sint datm dum
+rectae linem.
